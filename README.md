@@ -1,2 +1,5 @@
-# get_request
-my first get_request
+#Get Request
+
+Задача:
+1.Реализовать get запрос сайта на Linux используя стандартные библиотеки.
+2.Определение типа ip сайта (ipv4\v6)
